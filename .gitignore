@@ -1,0 +1,4 @@
+Procfile
+venv/
+*.pyc
+runtime.txt
